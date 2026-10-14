@@ -1,10 +1,5 @@
 # vnfplace: energy-aware online SFC placement in IoT fog networks
 
-Research code accompanying the revised GNN-MAPPO VNF-placement study. It replaces
-`r6_unified_experiment_full.py` with a modular, tested implementation whose
-physical model, feasibility handling and evaluation protocol are identical for
-every method.
-
 ## What is modelled
 
 | Aspect | Model |
