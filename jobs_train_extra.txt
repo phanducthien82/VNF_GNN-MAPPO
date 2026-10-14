@@ -1,0 +1,2 @@
+T_cont_fog_s0	runs_v3/fog/CONT_s0/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --continuing --lagrangian 0.98 --beta 10 --eta 0 --seed 0 --out runs_v3/fog/CONT_s0
+T_cont_fog_s1	runs_v3/fog/CONT_s1/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --continuing --lagrangian 0.98 --beta 10 --eta 0 --seed 1 --out runs_v3/fog/CONT_s1

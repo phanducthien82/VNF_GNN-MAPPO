@@ -1,0 +1,240 @@
+{
+ "name": "nobel_germany",
+ "source": "sndlib/nobel-germany (via topohub; original data: Internet Topology Zoo / SNDlib)",
+ "nodes": [
+  {
+   "id": 0,
+   "name": "Hannover",
+   "lon": 9.8,
+   "lat": 52.39
+  },
+  {
+   "id": 1,
+   "name": "Frankfurt",
+   "lon": 8.66,
+   "lat": 50.14
+  },
+  {
+   "id": 2,
+   "name": "Hamburg",
+   "lon": 10.08,
+   "lat": 53.55
+  },
+  {
+   "id": 3,
+   "name": "Norden",
+   "lon": 7.21,
+   "lat": 53.6
+  },
+  {
+   "id": 4,
+   "name": "Bremen",
+   "lon": 8.8,
+   "lat": 53.08
+  },
+  {
+   "id": 5,
+   "name": "Berlin",
+   "lon": 13.48,
+   "lat": 52.52
+  },
+  {
+   "id": 6,
+   "name": "Muenchen",
+   "lon": 11.55,
+   "lat": 48.15
+  },
+  {
+   "id": 7,
+   "name": "Ulm",
+   "lon": 9.99,
+   "lat": 48.4
+  },
+  {
+   "id": 8,
+   "name": "Nuernberg",
+   "lon": 11.08,
+   "lat": 49.45
+  },
+  {
+   "id": 9,
+   "name": "Stuttgart",
+   "lon": 9.12,
+   "lat": 48.73
+  },
+  {
+   "id": 10,
+   "name": "Karlsruhe",
+   "lon": 8.41,
+   "lat": 49.01
+  },
+  {
+   "id": 11,
+   "name": "Mannheim",
+   "lon": 8.49,
+   "lat": 49.49
+  },
+  {
+   "id": 12,
+   "name": "Essen",
+   "lon": 7.0,
+   "lat": 51.44
+  },
+  {
+   "id": 13,
+   "name": "Dortmund",
+   "lon": 7.48,
+   "lat": 51.51
+  },
+  {
+   "id": 14,
+   "name": "Duesseldorf",
+   "lon": 6.78,
+   "lat": 51.22
+  },
+  {
+   "id": 15,
+   "name": "Koeln",
+   "lon": 7.01,
+   "lat": 50.92
+  },
+  {
+   "id": 16,
+   "name": "Leipzig",
+   "lon": 12.38,
+   "lat": 51.34
+  }
+ ],
+ "edges": [
+  {
+   "u": 0,
+   "v": 5,
+   "dist_km": 249.82
+  },
+  {
+   "u": 0,
+   "v": 4,
+   "dist_km": 102.1
+  },
+  {
+   "u": 0,
+   "v": 13,
+   "dist_km": 186.74
+  },
+  {
+   "u": 0,
+   "v": 1,
+   "dist_km": 262.53
+  },
+  {
+   "u": 0,
+   "v": 2,
+   "dist_km": 130.38
+  },
+  {
+   "u": 0,
+   "v": 16,
+   "dist_km": 212.21
+  },
+  {
+   "u": 1,
+   "v": 15,
+   "dist_km": 145.38
+  },
+  {
+   "u": 1,
+   "v": 16,
+   "dist_km": 293.85
+  },
+  {
+   "u": 1,
+   "v": 11,
+   "dist_km": 73.32
+  },
+  {
+   "u": 1,
+   "v": 8,
+   "dist_km": 189.94
+  },
+  {
+   "u": 2,
+   "v": 5,
+   "dist_km": 254.6
+  },
+  {
+   "u": 2,
+   "v": 4,
+   "dist_km": 99.83
+  },
+  {
+   "u": 3,
+   "v": 4,
+   "dist_km": 120.39
+  },
+  {
+   "u": 3,
+   "v": 13,
+   "dist_km": 233.18
+  },
+  {
+   "u": 5,
+   "v": 16,
+   "dist_km": 151.38
+  },
+  {
+   "u": 6,
+   "v": 8,
+   "dist_km": 148.64
+  },
+  {
+   "u": 6,
+   "v": 7,
+   "dist_km": 118.78
+  },
+  {
+   "u": 7,
+   "v": 9,
+   "dist_km": 73.81
+  },
+  {
+   "u": 8,
+   "v": 16,
+   "dist_km": 229.53
+  },
+  {
+   "u": 8,
+   "v": 9,
+   "dist_km": 163.68
+  },
+  {
+   "u": 9,
+   "v": 10,
+   "dist_km": 60.56
+  },
+  {
+   "u": 10,
+   "v": 11,
+   "dist_km": 53.7
+  },
+  {
+   "u": 12,
+   "v": 13,
+   "dist_km": 34.15
+  },
+  {
+   "u": 12,
+   "v": 14,
+   "dist_km": 28.85
+  },
+  {
+   "u": 13,
+   "v": 15,
+   "dist_km": 73.34
+  },
+  {
+   "u": 14,
+   "v": 15,
+   "dist_km": 37.04
+  }
+ ]
+}

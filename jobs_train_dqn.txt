@@ -1,0 +1,20 @@
+T_dqn_fog_s0	runs_v3/fog/DQN_s0/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 0 --out runs_v3/fog/DQN_s0
+T_dqn_fog_s1	runs_v3/fog/DQN_s1/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 1 --out runs_v3/fog/DQN_s1
+T_dqn_fog_s2	runs_v3/fog/DQN_s2/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 2 --out runs_v3/fog/DQN_s2
+T_dqn_fog_s3	runs_v3/fog/DQN_s3/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 3 --out runs_v3/fog/DQN_s3
+T_dqn_fog_s4	runs_v3/fog/DQN_s4/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 4 --out runs_v3/fog/DQN_s4
+T_dqn_fog_s5	runs_v3/fog/DQN_s5/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 5 --out runs_v3/fog/DQN_s5
+T_dqn_fog_s6	runs_v3/fog/DQN_s6/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 6 --out runs_v3/fog/DQN_s6
+T_dqn_fog_s7	runs_v3/fog/DQN_s7/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 7 --out runs_v3/fog/DQN_s7
+T_dqn_fog_s8	runs_v3/fog/DQN_s8/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 8 --out runs_v3/fog/DQN_s8
+T_dqn_fog_s9	runs_v3/fog/DQN_s9/last.pt	python3 scripts/run.py train --topo fog --topo-seed 1 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 9 --out runs_v3/fog/DQN_s9
+T_dqn_real_geant2012_s0	runs_v3/real_geant2012/DQN_s0/last.pt	python3 scripts/run.py train --topo real:geant2012 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 0 --out runs_v3/real_geant2012/DQN_s0
+T_dqn_real_geant2012_s1	runs_v3/real_geant2012/DQN_s1/last.pt	python3 scripts/run.py train --topo real:geant2012 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 1 --out runs_v3/real_geant2012/DQN_s1
+T_dqn_real_geant2012_s2	runs_v3/real_geant2012/DQN_s2/last.pt	python3 scripts/run.py train --topo real:geant2012 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 2 --out runs_v3/real_geant2012/DQN_s2
+T_dqn_real_geant2012_s3	runs_v3/real_geant2012/DQN_s3/last.pt	python3 scripts/run.py train --topo real:geant2012 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 3 --out runs_v3/real_geant2012/DQN_s3
+T_dqn_real_geant2012_s4	runs_v3/real_geant2012/DQN_s4/last.pt	python3 scripts/run.py train --topo real:geant2012 --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 4 --out runs_v3/real_geant2012/DQN_s4
+T_dqn_real_nobel_germany_s0	runs_v3/real_nobel_germany/DQN_s0/last.pt	python3 scripts/run.py train --topo real:nobel_germany --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 0 --out runs_v3/real_nobel_germany/DQN_s0
+T_dqn_real_nobel_germany_s1	runs_v3/real_nobel_germany/DQN_s1/last.pt	python3 scripts/run.py train --topo real:nobel_germany --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 1 --out runs_v3/real_nobel_germany/DQN_s1
+T_dqn_real_nobel_germany_s2	runs_v3/real_nobel_germany/DQN_s2/last.pt	python3 scripts/run.py train --topo real:nobel_germany --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 2 --out runs_v3/real_nobel_germany/DQN_s2
+T_dqn_real_nobel_germany_s3	runs_v3/real_nobel_germany/DQN_s3/last.pt	python3 scripts/run.py train --topo real:nobel_germany --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 3 --out runs_v3/real_nobel_germany/DQN_s3
+T_dqn_real_nobel_germany_s4	runs_v3/real_nobel_germany/DQN_s4/last.pt	python3 scripts/run.py train --topo real:nobel_germany --learner dqn --lagrangian 0.98 --beta 10 --eta 0 --lr 1e-4 --seed 4 --out runs_v3/real_nobel_germany/DQN_s4

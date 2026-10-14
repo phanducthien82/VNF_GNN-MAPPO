@@ -1,0 +1,144 @@
+{
+ "name": "abilene",
+ "source": "topozoo/Abilene (via topohub; original data: Internet Topology Zoo / SNDlib)",
+ "nodes": [
+  {
+   "id": 0,
+   "name": "New York",
+   "lon": -74.01,
+   "lat": 40.71
+  },
+  {
+   "id": 1,
+   "name": "Chicago",
+   "lon": -87.65,
+   "lat": 41.85
+  },
+  {
+   "id": 2,
+   "name": "Washington DC",
+   "lon": -77.04,
+   "lat": 38.9
+  },
+  {
+   "id": 3,
+   "name": "Seattle",
+   "lon": -122.33,
+   "lat": 47.61
+  },
+  {
+   "id": 4,
+   "name": "Sunnyvale",
+   "lon": -122.04,
+   "lat": 37.37
+  },
+  {
+   "id": 5,
+   "name": "Los Angeles",
+   "lon": -118.24,
+   "lat": 34.05
+  },
+  {
+   "id": 6,
+   "name": "Denver",
+   "lon": -104.98,
+   "lat": 39.74
+  },
+  {
+   "id": 7,
+   "name": "Kansas City",
+   "lon": -94.63,
+   "lat": 39.11
+  },
+  {
+   "id": 8,
+   "name": "Houston",
+   "lon": -95.36,
+   "lat": 29.76
+  },
+  {
+   "id": 9,
+   "name": "Atlanta",
+   "lon": -84.39,
+   "lat": 33.75
+  },
+  {
+   "id": 10,
+   "name": "Indianapolis",
+   "lon": -86.16,
+   "lat": 39.77
+  }
+ ],
+ "edges": [
+  {
+   "u": 0,
+   "v": 1,
+   "dist_km": 1146.16
+  },
+  {
+   "u": 0,
+   "v": 2,
+   "dist_km": 328.58
+  },
+  {
+   "u": 1,
+   "v": 10,
+   "dist_km": 263.4
+  },
+  {
+   "u": 2,
+   "v": 9,
+   "dist_km": 872.17
+  },
+  {
+   "u": 3,
+   "v": 4,
+   "dist_km": 1138.92
+  },
+  {
+   "u": 3,
+   "v": 6,
+   "dist_km": 1641.58
+  },
+  {
+   "u": 4,
+   "v": 5,
+   "dist_km": 503.3
+  },
+  {
+   "u": 4,
+   "v": 6,
+   "dist_km": 1504.02
+  },
+  {
+   "u": 5,
+   "v": 8,
+   "dist_km": 2207.38
+  },
+  {
+   "u": 6,
+   "v": 7,
+   "dist_km": 892.06
+  },
+  {
+   "u": 7,
+   "v": 8,
+   "dist_km": 1042.24
+  },
+  {
+   "u": 7,
+   "v": 10,
+   "dist_km": 730.85
+  },
+  {
+   "u": 8,
+   "v": 9,
+   "dist_km": 1127.88
+  },
+  {
+   "u": 9,
+   "v": 10,
+   "dist_km": 687.8
+  }
+ ]
+}

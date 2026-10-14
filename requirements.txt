@@ -1,0 +1,9 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+networkx>=3.2
+statsmodels>=0.14
+torch>=2.2
+ortools>=9.8
+matplotlib>=3.8
+pytest>=8.0
